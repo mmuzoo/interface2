@@ -1,0 +1,11 @@
+{
+  "name": "sensormodule",          
+  "version": "1.0.0",
+  "main": "index.js",               
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "keywords": ["sensor", "data", "random"],
+  "author": "Muzaffer",            
+  "license": "ISC"
+}
